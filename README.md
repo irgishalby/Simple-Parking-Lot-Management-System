@@ -3,3 +3,5 @@ A simple python final exam project of the semester about a parking lot managemen
 
 Password Admin: 2222
 Tipe Kendaraan: mobil, motor, car, or motorcycle
+
+Goodluck and have fun!
